@@ -92,7 +92,7 @@ margin:0;
 
 }
 li {
-  font-size: 20px;
+  font-size: 14px;
 }
 
 </style>
