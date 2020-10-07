@@ -91,8 +91,8 @@ margin:0;
   max-height: 200px;
 
 }
-p {
-
+li {
+  font-size: 20px;
 }
 
 </style>
