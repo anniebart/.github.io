@@ -4,6 +4,7 @@
     <post-it class="name">my name is annie fitzgerald bartholomew</post-it>
     <post-it class="artist">i am an artist, designer and web developer</post-it>
     <post-it class="making"> <img src="./assets/Bartholomew014.jpg"> <p></p></post-it>
+     <post-it class="making"> <img src="./assets/03_Bartholomew.jpg"> <p></p></post-it>
     
     <Hero>hi there, feel free to move stuff around</Hero>
     
