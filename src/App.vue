@@ -6,7 +6,7 @@
     <post-it class="making"> <img src="./assets/Bartholomew014.jpg"> <p>barnacles</p></post-it>
     
     <Hero>welcome to my site! </Hero>
-    <button @click="newPostIt">click me</button>
+    
 
     
   </div>
