@@ -1,4 +1,4 @@
-# venio-site
+# annie-site
 
 ## Project setup
 ```
