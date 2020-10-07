@@ -2,7 +2,19 @@
   <div id="app">
     
     <post-it class="name">my name is annie fitzgerald bartholomew</post-it>
-    <post-it class="artist">i am an artist, designer and web developer</post-it>
+    <post-it class="artist">i live in brooklyn!</post-it>
+    <post-it>
+      <ul> I've had shows here:
+        <li>Assembly Room (NYC)</li>
+        <li>Collar Works (Troy, NY)</li>
+        <li>The Holland Project (Reno, NV)</li>
+        <li>Ghost Gallery (Brooklyn, NY)/li>
+        <li>Saratoga Arts Center (Saratoga Springs, NY</li>
+        <li>M Gallery (Middlebury, VT)</li>
+
+      </ul>
+
+    </post-it>
     <post-it class="making"> <img src="./assets/Bartholomew014.jpg"> <p></p></post-it>
      <post-it class="making"> <img src="./assets/03_Bartholomew.jpg"> <p></p></post-it>
     
