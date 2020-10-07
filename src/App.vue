@@ -8,7 +8,7 @@
         <li>Assembly Room (NYC)</li>
         <li>Collar Works (Troy, NY)</li>
         <li>The Holland Project (Reno, NV)</li>
-        <li>Ghost Gallery (Brooklyn, NY)/li>
+        <li>Ghost Gallery (Brooklyn, NY)</li>
         <li>Saratoga Arts Center (Saratoga Springs, NY</li>
         <li>M Gallery (Middlebury, VT)</li>
 
