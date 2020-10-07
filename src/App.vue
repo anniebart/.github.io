@@ -5,7 +5,7 @@
     <post-it class="artist">i am an artist, designer and web developer</post-it>
     <post-it class="making"> <img src="./assets/Bartholomew014.jpg"> <p></p></post-it>
     
-    <Hero>welcome to my site! </Hero>
+    <Hero>hi there, feel free to move stuff around</Hero>
     
 
     
