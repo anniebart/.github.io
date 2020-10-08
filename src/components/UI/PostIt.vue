@@ -79,7 +79,7 @@ export default {
   color: #000;
   padding: 5px;
   position: absolute;
-   box-shadow: 5px 5px 6px #aaaaaa;
+   box-shadow: 5px 5px 8px #aaa;
     margin: 10px;
 }
 </style>

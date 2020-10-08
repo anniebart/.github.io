@@ -15,8 +15,9 @@
       </ul>
 
     </post-it>
-    <post-it class="making"> <img src="./assets/Bartholomew014.jpg"> <p></p></post-it>
-     <post-it class="making"> <img src="./assets/03_Bartholomew.jpg"> <p></p></post-it>
+    
+    <post-it class="art barnacles"> <img src="./assets/Bartholomew014.jpg"> <p></p></post-it>
+     <post-it class="art seabed"> <img src="./assets/03_Bartholomew.jpg"> <p></p></post-it>
     
     <Hero>hi there, feel free to move stuff around</Hero>
     
@@ -74,25 +75,34 @@ margin:0;
 }
 .artist {
   position: absolute;
-  right:0;
-  top: 10%;
+  right:500px;
+  top: 300px;
 }
 .name {
   left:20px;
   top: 40px;
 }
-
-.making {
-  right:10px;
-  bottom:100px;
+.barnacles {
+  left: 200px;
+  top:400px;
+}
+.seabed {
+  right: 150px;
+  bottom: 100px;
 }
 
-.making img {
+.art img {
   max-height: 200px;
 
 }
+ul {
+  text-align:center;
+}
 li {
   font-size: 12px;
+  text-align:left;
 }
+
+
 
 </style>

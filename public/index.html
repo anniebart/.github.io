@@ -9,9 +9,48 @@
   </head>
   <body>
     <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+        <header>
+        <h1>Psssst. Do you have JavaScript Disabled? </h1>It's cool if you do, but you won't get to see the entire site without it enabled. But don't worry! You'll still get the same info! </header>
+        <main>
+        <h3> A little about me: </h3>
+        <p>My name is Annie, I am an artist, designer and web developer. I like to make things! </p>
+      </main>
     </noscript>
     <div id="app"></div>
     <!-- built files will be auto injected -->
   </body>
 </html>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=B612:ital,wght@0,400;0,700;1,400;1,700&family=IBM+Plex+Mono:wght@100;200;300;400;500;600;700&display=swap');
+  noscript{
+    font-family: B612;
+  }
+
+  noscript h1 {
+    background-color: black;
+    color: white;
+    padding: 12px;
+    border-radius: 20px;
+    transition: 1s all;
+    margin-right: 24px;
+  }
+
+  header {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+  noscript h1:hover {
+    background-color: yellow;
+    color: black;
+    border: 3px solid black;
+  }
+
+  noscript main {
+    width: 60%;
+  }
+</style>
