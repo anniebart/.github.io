@@ -3,7 +3,7 @@
     
     <post-it class="name">my name is annie fitzgerald bartholomew</post-it>
     <post-it class="artist">i live in brooklyn!</post-it>
-    <post-it>
+    <post-it class="shows">
       <ul> I've had shows here:
         <li>Assembly Room (NYC)</li>
         <li>Collar Works (Troy, NY)</li>
@@ -74,7 +74,6 @@ body {
 margin:0;
 }
 .artist {
-  position: absolute;
   right:500px;
   top: 300px;
 }
@@ -89,6 +88,10 @@ margin:0;
 .seabed {
   right: 150px;
   bottom: 100px;
+}
+.shows {
+  right:20px;
+  top:20px;
 }
 
 .art img {
