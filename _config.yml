@@ -115,7 +115,7 @@ theme_config:
 deploy:
   type: git
   repo: https://github.com/anniebart/anniebart.github.io.git
-  branch: master
+  branch: main
 
 feed:
   enable: true
