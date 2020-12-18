@@ -113,7 +113,9 @@ theme_config:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/anniebart/anniebart.github.io.git
+  branch: master
 
 feed:
   enable: true
