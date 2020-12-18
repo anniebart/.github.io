@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com/
+url: URL_FROM_GITHUB_PAGES
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -105,7 +105,7 @@ theme_config:
   copyright:
     since: 2020
     name: Annie Bartholomew
-    url: https://anniebart.github.io
+    url: http://www.anniebartholomew.com
   menu:
     Home: /
     GitHub: https://github.com/anniebart
